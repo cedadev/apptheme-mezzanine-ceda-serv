@@ -1,3 +1,3 @@
-# apptheme-mezzanine-ceda
+# apptheme-mezzanine-ceda-serv
 
-App theme for Mezzanine, applying fwtheme-django and underlying orgtheme colour scheme.
+App theme for Mezzanine, applying final CEDA Services customisations on top of apptheme-mezzanine
